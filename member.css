@@ -11,6 +11,11 @@
 	transition: width .6s;
 }
 
+.members-1998pB .membersGroup-v9BXpm {
+    height: 0;
+    padding: 0;
+    transition: .3s all ease-out;
+}
 #dv-main .dv-date{
   white-space: normal;
 }
